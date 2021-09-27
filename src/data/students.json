@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "Eusebio Ajax",
+      "enrollment": "74218316"
+    },
+    {
+      "name": "John Doe",
+      "enrollment": "31832901"
+    },
+    {
+      "name": "Miles Tone",
+      "enrollment": "56202303"
+    },
+    {
+      "name": "Barry Tone",
+      "enrollment": "45908012"
+    },
+    {
+      "name": "Max Verstappen",
+      "enrollment": "27200378"
+    }
+  ]
+}
