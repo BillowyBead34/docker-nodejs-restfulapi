@@ -11,9 +11,7 @@ describe('get students', () => {
     const students = getStudents();
 
     expect(students).toEqual(
-      expect.arrayContaining([
-        expect.objectContaining({ name: 'Eusebio Ajax' }),
-      ])
+      expect.arrayContaining([expect.objectContaining({ name: 'Eusebio Aja' })])
     );
   });
 });
